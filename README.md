@@ -4,6 +4,34 @@ A modern, high-performance, dark-themed game repack platform built using the MER
 
 ---
 
+## 📸 Screenshots
+
+### 🎮 Game Catalog
+![Game Catalog - Browse & filter repacks by genre](screenshots/Data%20Explorer%20_%20Cloud_%20MongoDB%20Cloud%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2014-10-2026%2000_20_03.png)
+
+### 🔐 Authentication Portal
+![Login Page - Sign in with Google or Mock Email](screenshots/Data%20Explorer%20_%20Cloud_%20MongoDB%20Cloud%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2014-10-2026%2000_20_11.png)
+
+### 📄 Game Detail Page
+![Game Detail - Repack features, description & system requirements](screenshots/Data%20Explorer%20_%20Cloud_%20MongoDB%20Cloud%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2014-10-2026%2000_20_40.png)
+
+### 📥 Download Mirrors & Discussion
+![Game Detail (Scrolled) - System requirements, download mirrors & comments](screenshots/Data%20Explorer%20_%20Cloud_%20MongoDB%20Cloud%20and%204%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2014-10-2026%2000_20_45.png)
+
+### 🗄️ Database - Comments Collection
+![MongoDB Compass - fitgirl_repacks.comments collection](screenshots/MongoDB%20Compass%20-%20CRUD_fitgirl_repacks.comments%2014-10-2026%2000_18_54.png)
+
+### 🗄️ Database - Repacks Collection
+![MongoDB Compass - fitgirl_repacks.repacks collection (150 documents)](screenshots/MongoDB%20Compass%20-%20CRUD_fitgirl_repacks.comments%2014-10-2026%2000_19_01.png)
+
+### 👥 Database - Users Collection
+![MongoDB Compass - fitgirl_repacks.users collection](screenshots/MongoDB%20Compass%20-%20CRUD_fitgirl_repacks.users%2014-10-2026%2000_19_09.png)
+
+### 🖥️ Codebase Overview
+![IDE View - Project structure and db.js code](screenshots/repack-website%20-%20Antigravity%20IDE%20-%20db.js%20%5BAdministrator%5D%2014-10-2026%2000_19_29.png)
+
+---
+
 ## 🚀 Key Features
 
 * **Hacker Aesthetic (Branded)**: Responsive grid layouts featuring cyber green highlights, monospace data feeds, custom terminal elements, and size-reduction badges.
